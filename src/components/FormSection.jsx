@@ -251,8 +251,8 @@ function FormSection({addFormAnswersToList}){
           </li>
           <li>
             <label>
-              <input name="timeSpent" type="checkbox" value="I don't like to spend time with it"
-                checked={formData.timeSpent.includes("I don't like to spend time with it")} 
+              <input name="timeSpent" type="checkbox" value="noTime"
+                checked={formData.timeSpent.includes("noTime")} 
                 onChange={event=> checkboxChange(event)}/>
                 I don't like to spend time with it.
             </label>
