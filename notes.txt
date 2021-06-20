@@ -1,0 +1,22 @@
+  answerItem: {
+    username: "",
+    email: "",
+    logo:"",
+    colour:"",
+    consistency:"",
+    timeSpent: [],
+    review: "",
+    bestFeatures: [],
+    worstFeatures: []
+  }
+  formItem: {
+    username: "",
+    email: "",
+    logo:"",
+    colour:"",
+    consistency,
+    timeSpent: [],
+    review: "",
+    bestFeatures: [],
+    worstFeatures: []
+  }

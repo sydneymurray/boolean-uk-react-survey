@@ -1,0 +1,22 @@
+Hey everyone, here's today exercise!
+
+Today's exercise: Yet Another Survey!
+
+Repo: boolean-uk-react-survey
+
+Description
+With this exercise, we're going to have some practice creating forms. They're not exactly the easiest or most fun to create, but they're everywhere! (We could even argue that the web isn't much more than a bunch of forms). This will also give you some hands-on time with creating controlled forms in React. 
+
+Instructions
+- Use this template => https://codesandbox.io/s/react-survey-form-starter-template-qgrgx
+- Make sure you check all the code that was given to you
+- Create the missing form, by following the templates in the templates folder, and by watching the gif
+- The values of the checkboxes and radio buttons are repeated throughout the different sections of the form
+- When the form is submitted, the answers should be stored in state
+- Also, after submitting the form, you should reset the form to its original state 
+- Display all the answers in the Answers List, using the provided components
+
+Tips
+- The form might look quite big, but there are opportunities here to reuse some of the components you create within the form
+- Remember that in a controlled form, the state is the one keeping track of the inputs values
+
